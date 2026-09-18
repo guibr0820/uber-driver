@@ -1,0 +1,25 @@
+{
+  "functions": {
+    "source": "functions"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "app-motorista-c39e4",
+          "appId": "1:766482057634:android:66539f375a68df4eb10afb",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "app-motorista-c39e4",
+          "configurations": {
+            "android": "1:766482057634:android:66539f375a68df4eb10afb",
+            "ios": "1:766482057634:ios:556b5c04ffd0aff9b10afb"
+          }
+        }
+      }
+    }
+  }
+}

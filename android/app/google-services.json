@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "766482057634",
+    "project_id": "app-motorista-c39e4",
+    "storage_bucket": "app-motorista-c39e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766482057634:android:3ceb122a39d4b2a7b10afb",
+        "android_client_info": {
+          "package_name": "gr.app.move"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYTaPgYzQcJWfRjaWh8ygTtOPnV44anqM"
+        },
+        {
+          "current_key": "AIzaSyCBwUss0c3TpSleV_MJ_DNqK-DPZ3evMYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766482057634:android:66539f375a68df4eb10afb",
+        "android_client_info": {
+          "package_name": "gr.app.move.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYTaPgYzQcJWfRjaWh8ygTtOPnV44anqM"
+        },
+        {
+          "current_key": "AIzaSyCBwUss0c3TpSleV_MJ_DNqK-DPZ3evMYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
